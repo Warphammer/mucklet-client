@@ -29,7 +29,8 @@ const helpText =
   		<tr><td class="charlog--strong">AI&nbsp;characters</td><td>Characters who interact using an LLM ('AI model') are generally disallowed except for NPC characters, which may use LLMs with clear disclosure and a bot token.</td></tr>
   		<tr><td class="charlog--strong">AI&nbsp;training</td><td>Users may not use log data/user interaction to train an AI model. This may also be interpreted as impersonation if targeting a specific user.</td></tr>
       		<tr><td class="charlog--strong">Bot&nbsp;permissions</td><td>Characters operating with a bot token are only allowed to operate in areas where the area owner or a moderator has approved the use.</td></tr>
-      		<tr><td class="charlog--strong">Bot&nbsp;data</td><td>Bot characters are not allowed to log or retain data longer than is needed to process it. They should not respond unless addressed (named, to'ed, whispered or messaged) or activated with a keyword.</td></tr>
+      		<tr><td class="charlog--strong">Bot&nbsp;data</td><td>Bot characters are not allowed to log or retain data longer than is needed to process it.</td></tr>
+      		<tr><td class="charlog--strong">Bot&nbsp;interaction</td><td>Bot interactions will be governed by the area owner. No bot should engage in remote communication without consent from the intended recipient.</td></tr>
       		<tr><td class="charlog--strong">Bot&nbsp;responsibility</td><td>Bot characters' owners are responsible for their behavior. Owners may at any time be asked by a moderator or admin to audit the code used for compliance.</td></tr>	
 	</tbody></table>
 </section>
